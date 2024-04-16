@@ -8,11 +8,19 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors: {
+				fondo: '#0c0c0c',
+        negro: '#030303',
+        naranja: '#ff8100'
+			},
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      boxShadow: {
+        'adentro': 'inset 0 20px 40px 0 var(--tw-shadow-color)',
+      }
     },
   },
   plugins: [],

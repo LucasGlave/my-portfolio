@@ -1,0 +1,67 @@
+export const proyectsContent = [
+  {
+    img: '/assets/1.jpg',
+    description:
+      'Tech View es una plataforma informativa especializada en el mundo de la informática, donde podrás encontrar toda la información necesaria sobre hardware. Con un enfoque en la tecnología y la innovación, Tech View te ofrece análisis y revisiones detalladas sobre los últimos lanzamientos en el mercado, así como consejos y recomendaciones para ayudarte a tomar decisiones informadas sobre tus compras tecnológicas. Ya seas un aficionado o un experto en informática, Tech View es el lugar perfecto para mantenerte actualizado sobre las tendencias y novedades en el mundo de la tecnología.',
+    content1: 'TECH',
+    content2: 'VIEW',
+    link: '#',
+    color: 'text-blue-800',
+    border: 'border-blue-800',
+    bgH: 'hover:bg-blue-800',
+    shadow: 'shadow-lg shadow-blue-700',
+    shadowH: 'hover:shadow-xl hover:shadow-blue-950',
+  },
+  {
+    img: '/assets/2.jpg',
+    description:
+      'Estudio Salvadori es una plataforma informativa especializada en el mundo de la informática, donde podrás encontrar toda la información necesaria sobre hardware. Con un enfoque en la tecnología y la innovación, Tech View te ofrece análisis y revisiones detalladas sobre los últimos lanzamientos en el mercado, así como consejos y recomendaciones para ayudarte a tomar decisiones informadas sobre tus compras tecnológicas. Ya seas un aficionado o un experto en informática, Tech View es el lugar perfecto para mantenerte actualizado sobre las tendencias y novedades en el mundo de la tecnología.',
+    content1: 'ESTUDIO',
+    content2: 'SALVADORI',
+    link: '#',
+    color: 'text-red-800',
+    border: 'border-red-800',
+    bgH: 'hover:bg-red-800',
+    shadow: 'shadow-lg shadow-red-700',
+    shadowH: 'hover:shadow-xl hover:shadow-red-950',
+  },
+  {
+    img: '/assets/3.jpg',
+    description:
+      'The Campking es una plataforma informativa especializada en el mundo de la informática, donde podrás encontrar toda la información necesaria sobre hardware. Con un enfoque en la tecnología y la innovación, Tech View te ofrece análisis y revisiones detalladas sobre los últimos lanzamientos en el mercado, así como consejos y recomendaciones para ayudarte a tomar decisiones informadas sobre tus compras tecnológicas. Ya seas un aficionado o un experto en informática, Tech View es el lugar perfecto para mantenerte actualizado sobre las tendencias y novedades en el mundo de la tecnología.',
+    content1: 'THE',
+    content2: 'CAMPKING',
+    link: '#',
+    color: 'text-green-800',
+    border: 'border-green-800',
+    bgH: 'hover:bg-green-800',
+    shadow: 'shadow-lg shadow-green-700',
+    shadowH: 'hover:shadow-xl hover:shadow-green-950',
+  },
+  {
+    img: '/assets/4.jpg',
+    description:
+      'Mi Turno Web es una plataforma informativa especializada en el mundo de la informática, donde podrás encontrar toda la información necesaria sobre hardware. Con un enfoque en la tecnología y la innovación, Tech View te ofrece análisis y revisiones detalladas sobre los últimos lanzamientos en el mercado, así como consejos y recomendaciones para ayudarte a tomar decisiones informadas sobre tus compras tecnológicas. Ya seas un aficionado o un experto en informática, Tech View es el lugar perfecto para mantenerte actualizado sobre las tendencias y novedades en el mundo de la tecnología.',
+    content1: 'MI TURNO',
+    content2: 'WEB',
+    link: '#',
+    color: 'text-violet-800',
+    border: 'border-violet-800',
+    bgH: 'hover:bg-violet-800',
+    shadow: 'shadow-lg shadow-violet-700',
+    shadowH: 'hover:shadow-xl hover:shadow-violet-950',
+  },
+  {
+    img: '/assets/5.jpg',
+    description:
+      'Don Basilio es una plataforma informativa especializada en el mundo de la informática, donde podrás encontrar toda la información necesaria sobre hardware. Con un enfoque en la tecnología y la innovación, Tech View te ofrece análisis y revisiones detalladas sobre los últimos lanzamientos en el mercado, así como consejos y recomendaciones para ayudarte a tomar decisiones informadas sobre tus compras tecnológicas. Ya seas un aficionado o un experto en informática, Tech View es el lugar perfecto para mantenerte actualizado sobre las tendencias y novedades en el mundo de la tecnología.',
+    content1: 'DON',
+    content2: 'BASILIO',
+    link: '#',
+    color: 'text-yellow-800',
+    border: 'border-yellow-800',
+    bgH: 'hover:bg-yellow-800',
+    shadow: 'shadow-lg shadow-yellow-900',
+    shadowH: 'hover:shadow-xl hover:shadow-yellow-950',
+  },
+];
