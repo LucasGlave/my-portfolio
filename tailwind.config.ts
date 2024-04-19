@@ -19,7 +19,7 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       boxShadow: {
-        'adentro': 'inset 0 20px 40px 0 var(--tw-shadow-color)',
+        'adentro': 'inset 0 0 30px 0',
       }
     },
   },

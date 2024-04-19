@@ -6,13 +6,14 @@ import Image from 'next/image';
 import Typewriter from '@/components/Typewriter';
 import { Sidebar } from '@/components/sidebar/Sidebar';
 import Reveal from '../Reveal';
+import Curriculum from '../Curriculum';
 
 const Home = () => {
   return (
     <div className="bg-fondo w-full h-full px-3 pt-3 text-white z-10">
       <Header />
       <div className="flex flex-row w-full h-screen z-10">
-        <div className="w-1/2 h-[100%] bg-gradient-to-r from-fondo to-negro flex flex-row justify-center items-center z-10">
+        <div className="w-1/2 h-[100%] bg-fondo flex flex-row justify-center items-center z-10">
           <Reveal>
             <div className="flex flex-col ml-40 justify-center items-start text-start w-full text-3xl">
               <h1 className="font-semibold">SOY LUCAS GLAVE</h1>
@@ -28,6 +29,7 @@ const Home = () => {
                 enfocados en el Frontend, un Bootcamp Full Stack en Plataforma 5 y actualmente
                 cursando Diplomatura UX/UI en la Universidad Tecnologica Nacional.
               </p>
+              <Curriculum />
             </div>
           </Reveal>
           <Sidebar />
